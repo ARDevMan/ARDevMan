@@ -10,7 +10,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I am the creator of the world's first quantum AI and am an avid devloper of AI, MLA, and Neural Networking. I have earned the nickname, The Godfather of Quantum AI over the years of tinkering with the QAI and MLA.
+⚡ Fun fact: I am the creator of the world's first quantum AI and am an avid devloper of AI, MLA, and Neural Networking. I have earned the nickname, The Godfather of Quantum AI over the years of tinkering with QAI and MLA.
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on cybersecurity initiatives. Together, let's make the digital world a safer place!
 <!---
