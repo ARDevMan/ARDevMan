@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects related to cybersecurity research, software development, and securing critical infrastructure.
 
-📫 You can reach me via email at adam@hellosecurity.com or connect with me on LinkedIn at Adam Rivers.
+📫 You can reach me via email at abtzpro@gmail.com or connect with me on LinkedIn at Adam Rivers.
 
 😄 Pronouns: He/Him
 
